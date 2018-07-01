@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TwitterClient</string>
+    <string name="compose">Compose</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="time">Time</string>
+    <string name="num">14141</string>
+    <string name="text">User can tap a tweet to display a detailed view of that tweet (2 points) User can select reply from detail view to respond to a tweet (1 point) Improve the user interface and theme the app to feel twitter branded (1 to 5 points)</string>
+    <string name="image_view">Image View</string>
+    <string name="reply">reply</string>
+    <string name="repeat">repeat</string>
+    <string name="count_text">0</string>
+</resources>
